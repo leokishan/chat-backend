@@ -1,0 +1,18 @@
+{
+    "editor.fontSize": 14,
+    "editor.lineHeight": 25,
+    "editor.formatOnSave": true,
+    "editor.folding": true,
+    "prettier.printWidth": 80,
+    "prettier.jsxBracketSameLine": true,
+    "editor.tabSize": 2,
+    "editor.foldingStrategy": "indentation",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "remimarsal.prettier-now"
+    },
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/*/**": true
+      }
+}
